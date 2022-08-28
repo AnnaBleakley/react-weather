@@ -9,6 +9,12 @@ function App() {
     <div className="App">
       <h1>Weather App</h1>
       <WeatherSearch />
+      <p>
+        <a href="https://github.com/AnnaBleakley/react-weather">
+          Open-source code
+        </a>
+        by Anna Bleakley
+      </p>
     </div>
   );
 }
